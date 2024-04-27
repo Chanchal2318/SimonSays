@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background: color #0edde1;
+    text-align: center;
+}
+
+.container{
+    height: 70vh;
+}
